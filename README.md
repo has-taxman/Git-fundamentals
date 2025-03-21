@@ -1,4 +1,4 @@
-#Git Fundamentals
+# Git Fundamentals
 Git is a popular distributed version control system used extensively in software development. Its core principles facilitate effective collaboration, efficient code management, and reliable change tracking. This guide covers essential Git concepts every developer should know.
 
 ## 1. Basics of Version Control
