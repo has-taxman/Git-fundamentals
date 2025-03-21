@@ -4,7 +4,9 @@ Gitflow is a widely adopted branching model designed to streamline feature devel
 
 ## Core Branches in Gitflow Main Branch:
 
-The main branch contains production-ready code. Only thoroughly tested and stable updates are merged here. Every update to main is tagged with a version number (e.g., v1.0, v1.1) to facilitate easy tracking of releases. Development Branch:
+The main branch contains production-ready code. Only thoroughly tested and stable updates are merged here. Every update to main is tagged with a version number (e.g., v1.0, v1.1) to facilitate easy tracking of releases. 
+
+## Development Branch:
 
 The development branch acts as the central integration point for ongoing work. It is frequently updated with new enhancements and modifications. All feature branches should originate from the development branch and be merged back once completed.
 
