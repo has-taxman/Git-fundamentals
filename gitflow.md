@@ -83,7 +83,7 @@ Tagging the fix ensures proper versioning. Deleting the hotfix branch afterwards
 
 ## Advantages of Gitflow Implementing Gitflow provides several benefits:
 
-Clear Structure: It maintains separation between development, testing, and production environments, preventing unverified changes from being released.
-Streamlined Collaboration: Teams can develop features in parallel without interfering with each other's work.
-Effective Issue Resolution: Urgent fixes can be deployed to production swiftly while ensuring all branches remain up to date.
+* **Clear Structure:** It maintains separation between development, testing, and production environments, preventing unverified changes from being released.
+* **Streamlined Collaboration:** Teams can develop features in parallel without interfering with each other's work.
+* **Effective Issue Resolution:** Urgent fixes can be deployed to production swiftly while ensuring all branches remain up to date.
 This structured approach makes Gitflow an effective model for managing code in complex projects.
