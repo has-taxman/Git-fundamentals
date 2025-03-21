@@ -4,9 +4,9 @@ Git is a popular distributed version control system used extensively in software
 ## 1. Basics of Version Control
 Git's primary function is version control, allowing developers to track changes in their codebase over time. Key benefits include:
 
-Backup: Each commit acts as a backup of your code.
-History: Review, revert, or inspect previous code versions.
-Collaboration: Multiple developers can work on the same codebase without conflicts.
+* **Backup**: Each commit acts as a backup of your code.
+* **History:** Review, revert, or inspect previous code versions.
+* **Collaboration:** Multiple developers can work on the same codebase without conflicts.
 ## 2. Repositories
 A Git repository stores your code and its complete version history. Repositories can be:
 
